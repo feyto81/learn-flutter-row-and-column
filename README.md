@@ -1,6 +1,6 @@
-# learn_flutter_row_and_column
+# Learn Flutter Row and Column
 
-A new Flutter project.
+Learn Mobile Apps Develompent with Flutter.
 
 ## Getting Started
 
