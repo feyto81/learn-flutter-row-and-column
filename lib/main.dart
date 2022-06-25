@@ -12,6 +12,9 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Latihan Row and Column"),
         ),
+        body: Column(
+          children: <Widget>[Text("Text 1")],
+        ),
       ),
     );
   }
