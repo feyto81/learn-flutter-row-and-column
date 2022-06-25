@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Text("Text 1"),
             Text("Text 2"),
